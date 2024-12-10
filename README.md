@@ -51,7 +51,7 @@ pip install -r apprequirements.txt
 
 **EDA and Feature Engineering**
 
-1. Open the `Spotify Music Recommender.ipynb` file in Jupyter Notebook or Anaconda.
+1. Open the `Spotify-Music-Prediction.ipynb` file in Jupyter Notebook or Anaconda.
 2. Run all cells sequentially to perform the following tasks:
     * Exploratory Data Analysis (EDA)
     * Preprocess the data
